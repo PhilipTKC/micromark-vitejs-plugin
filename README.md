@@ -1,11 +1,8 @@
 # Micromark ViteJS Plugin
 
-Created for personal use, but feel free to use it.
-
 ## TODO
 
 - Extract Headers with option `Include.TOC`
-- Migrate [QuickStart](https://github.com/PhilipTKC/quick-start) plugins from previous parser to micromark.
 
 ## Usage
 
